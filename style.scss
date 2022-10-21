@@ -1,4 +1,4 @@
-/* Variables */
+/* VARIABLES */
 
 $color-one: #0097e6;
 $color-two: #33d9b2;
@@ -15,6 +15,8 @@ $font-text: "Inconsolata", sans-serif;
 *::before,
 *::after {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 body {
@@ -33,4 +35,61 @@ body {
 
 section {
   padding: 96px 0;
+}
+
+/* NAVIGATION */
+
+.navigation {
+  background-color: $color-one;
+  padding: 12px 0;
+
+  &__list {
+    list-style-type: none;
+
+    &-item {
+      position: relative;
+      display: inline-block;
+      margin-right: 36px;
+
+      &:hover ul {
+        display: block;
+        text-align: center;
+      }
+
+      > a {
+        text-decoration: none;
+        color: $color-light;
+        transition: all 0.3s;
+
+        &:hover {
+          color: $color-two;
+        }
+      }
+
+      ul {
+        position: absolute;
+        display: none;
+        left: 50%;
+        transform: translate(-50%);
+        padding-top: 12px;
+        list-style-type: none;
+        background-color: $color-light;
+      }
+
+      ul li {
+        display: block;
+        margin-bottom: 12px;
+        padding: 0 24px;
+
+        a {
+          text-decoration: none;
+          color: $color-one;
+
+          &:hover {
+            color: $color-two;
+          }
+        }
+      }
+    }
+  }
 }
