@@ -192,6 +192,7 @@ h2 {
 
   &__row {
     @include flex-space-between-wrap();
+    margin-left: 70px;
   }
 
   &__title {
@@ -258,6 +259,7 @@ h2 {
 .work {
   &__row {
     @include flex-space-between-wrap();
+    margin-left: 70px;
   }
 
   &__box {
@@ -312,6 +314,69 @@ h2 {
 
     &:hover {
       color: $color-two;
+    }
+  }
+}
+
+/* CONTACT */
+
+.contact {
+  color: $color-light;
+
+  background-color: $color-one;
+  &__flex {
+    display: flex;
+    justify-content: center;
+  }
+
+  &__form-box {
+    width: 70%;
+  }
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+    margin-right: 96px;
+
+    textarea {
+      resize: none;
+    }
+
+    input,
+    textarea {
+      background: $color-one;
+      border: none;
+      border-bottom: 5px solid $color-light;
+      color: $color-light;
+      font-size: 16px;
+      outline: none;
+      margin-bottom: 20px;
+      padding: 0 0 20px 20px;
+
+      &::placeholder {
+        font-family: $font-text;
+        color: $color-light;
+      }
+    }
+
+    .btn-six {
+      border-color: $color-light;
+      color: $color-light;
+      background-image: linear-gradient(
+        90deg,
+        $color-light 50%,
+        transparent 50%
+      );
+
+      &:hover {
+        color: $color-one;
+      }
+    }
+  }
+
+  &__address {
+    p {
+      margin-bottom: 20px;
     }
   }
 }
