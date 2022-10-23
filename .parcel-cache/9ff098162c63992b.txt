@@ -1,4 +1,4 @@
-4338
+4347
 101C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\agents.js133108531788006374 0
 83C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@mischnic133108531728617189 1
 128C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\core\test\fixtures\common-targets\package.json133108531853786287 0
@@ -21,7 +21,18 @@
 102C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\css-select\lib\sort.d.ts.map133108531795281948 0
 112C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\svgo\plugins\convertEllipseToCircle.js133108531791834281 0
 120C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\intl-pluralrules.js133108531872273730 0
-65C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist133109961932838392 1
+65C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist133110058036544003 1
+71C:\Users\bartk\Desktop\dev\html and css only\creative-agency\style.scss133110058035501443 0
+108C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\ruby.js133108531880602680 0
+105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\css-tree\lib\syntax\node\Nth.js133108531835097673 0
+107C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\type-fest\source\stringified.d.ts133108531804589270 0
+97C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\svgo\lib\stringifier.js133108531826421357 0
+105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\TN.js133108531887721002 0
+129C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\css-container-query-units.js133108531849325054 0
+80C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@types133108531728637190 1
+105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\BH.js133108531826431418 0
+100C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\cache\lib\index.js133108531772305918 0
+64C:\Users\bartk\Desktop\dev\html and css only\creative-agency\img133110019481266618 1
 87C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\color-convert133108531769157003 1
 105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\SE.js133108531881581044 0
 114C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\css-select\lib\pseudo-selectors\index.js133108531774175966 0
@@ -43,18 +54,18 @@
 104C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\nth-check\lib\esm\compile.d.ts133108531794981484 0
 81C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel133108532395236323 1
 78C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\svgo133108531832410929 1
-71C:\Users\bartk\Desktop\dev\html and css only\creative-agency\index.html133109961512596364 0
+71C:\Users\bartk\Desktop\dev\html and css only\creative-agency\index.html133110033532790604 0
 93C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\yaml\browser\seq.js133108531805412773 0
 82C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\posthtml133108531764378116 1
 95C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\import-fresh\index.js133108531742961183 0
-102C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\source-map\lib\quick-sort.js133108531776871908 0
-73C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules133108532397812197 1
 92C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\.package-lock.json133108532398637638 0
 112C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\lmdb\node_modules\node-addon-api\tools133108531794061779 1
 105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\utils\src\DefaultMap.js133108531788570945 0
 93C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\terser\lib\compress133108531817997820 1
 96C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\README.md133108531890658058 0
 82C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\msgpackr133108531806595536 1
+102C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\source-map\lib\quick-sort.js133108531776871908 0
+73C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules133108532397812197 1
 85C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\htmlparser2133108531782932438 1
 107C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@swc\helpers\scripts\generator.sh133108531852990505 0
 96C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\yaml\dist\parse-cst.js133108531795224822 0
@@ -63,14 +74,6 @@
 105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\htmlnano\lib\presets\ampSafe.js133108531746047910 0
 78C:\Users\bartk\Desktop\dev\html and css only\creative-agency\package-lock.json133108532398437529 0
 88C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\parcel\LICENSE133108531740903964 0
-71C:\Users\bartk\Desktop\dev\html and css only\creative-agency\style.scss133109961931816966 0
-108C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\ruby.js133108531880602680 0
-105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\css-tree\lib\syntax\node\Nth.js133108531835097673 0
-107C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\type-fest\source\stringified.d.ts133108531804589270 0
-97C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\svgo\lib\stringifier.js133108531826421357 0
-105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\TN.js133108531887721002 0
-129C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\css-container-query-units.js133108531849325054 0
-80C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@types133108531728637190 1
 82C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\get-port133108531759195646 1
 87C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\lmdb\index.js133108531843090047 0
 100C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@trysound\sax\package.json133108531751512373 0
@@ -94,6 +97,7 @@
 92C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\nullthrows\LICENSE133108531743120938 0
 116C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\core\test\fixtures\invalid-engines133108531854036740 1
 97C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\terser\lib\transform.js133108531818921474 0
+81C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\4.ce892d05.jpeg133110044836954105 0
 121C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133108531787996348 0
 80C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@lezer133108531728477188 1
 134C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133108531745967855 0
@@ -125,8 +129,6 @@
 127C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\lmdb\node_modules\node-addon-api\package-support.json133108531790676088 0
 102C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\timsort\build\timsort.min.js133108531770597386 0
 96C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\safe-buffer\index.d.ts133108531762714552 0
-125C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\credential-management.js133108531844796495 0
-85C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\is-arrayish133108531770587391 1
 100C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\css-tree\lib\syntax\pseudo133108531842050907 1
 81C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\globals133108531768636288 1
 104C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\source-map-support\register.js133108531751496054 0
@@ -281,6 +283,8 @@
 101C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\source-map-js\source-map.js133108532396696107 0
 112C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\svg-smil.js133108531885110890 0
 84C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\fill-range133108532396258150 1
+125C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\credential-management.js133108531844796495 0
+85C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\is-arrayish133108531770587391 1
 88C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\is-binary-path133108532396348167 1
 100C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\svgo\plugins\cleanupIDs.js133108531780580842 0
 84C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\is-extglob133108532396180195 1
@@ -2285,6 +2289,7 @@
 107C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\runtime-react-refresh\src133108531749662702 1
 119C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133108531776043363 0
 111C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\electron-to-chromium\full-versions.js133108531762740489 0
+71C:\Users\bartk\Desktop\dev\html and css only\creative-agency\img\1.jpeg133108370087911990 0
 105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\AT.js133108531808331443 0
 103C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\workers\lib\Handle.js133108531788352603 0
 94C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\LICENSE133108531745977913 0
@@ -2738,7 +2743,6 @@
 105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\BG.js133108531825576167 0
 120C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\speech-synthesis.js133108531883305617 0
 93C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\base-x\package.json133108531744998530 0
-105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\BH.js133108531826431418 0
 105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\BI.js133108531826481416 0
 105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\BJ.js133108531828801256 0
 105C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\regions\BO.js133108531831279542 0
@@ -3270,7 +3274,7 @@
 99C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\reporter-cli\test133108531775983416 1
 124C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133108531884058594 0
 120C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\core\lib\requests\ValidationRequest.js133108531851915063 0
-76C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\index.html133109961513449987 0
+76C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\index.html133110044836894117 0
 110C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\caniuse-lite\data\features\stream.js133108531884163256 0
 94C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@lmdb\lmdb-win32-x64133108531797073614 1
 107C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\packager-css\package.json133108531759185877 0
@@ -4187,7 +4191,6 @@
 100C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\cache\src\index.js133108531775065124 0
 100C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\cache\src\types.js133108531783719549 0
 111C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\cache\lib\IDBCache.browser.js133108531756709175 0
-100C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\cache\lib\index.js133108531772305918 0
 100C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\cache\lib\types.js133108531780580842 0
 101C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\bundler-default\lib133108531743940921 1
 110C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\@parcel\bundler-default\package.json133108531760234593 0
@@ -4333,7 +4336,13 @@
 87C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\.bin\svgo.ps1133108531891098251 0
 89C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\.bin\terser.cmd133108531891068168 0
 89C:\Users\bartk\Desktop\dev\html and css only\creative-agency\node_modules\.bin\terser.ps1133108531891068168 0
-93C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\creative-agency.3464ddca.js133109951436355282 0
-97C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\creative-agency.3464ddca.js.map133109951436385229 0
-84C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\index.8353e49f.css133109961932798421 0
-88C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\index.8353e49f.css.map133109961932828394 0
+71C:\Users\bartk\Desktop\dev\html and css only\creative-agency\img\2.jpeg133108370088061978 0
+71C:\Users\bartk\Desktop\dev\html and css only\creative-agency\img\3.jpeg133108370088222032 0
+71C:\Users\bartk\Desktop\dev\html and css only\creative-agency\img\4.jpeg133108370088384125 0
+81C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\1.43cb0911.jpeg133110044836954105 0
+81C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\2.f0465762.jpeg133110044836834107 0
+81C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\3.5873e1fa.jpeg133110044836954105 0
+93C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\creative-agency.3464ddca.js133110044836824123 0
+97C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\creative-agency.3464ddca.js.map133110044836874118 0
+84C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\index.8353e49f.css133110058036514045 0
+88C:\Users\bartk\Desktop\dev\html and css only\creative-agency\dist\index.8353e49f.css.map133110058036534033 0
