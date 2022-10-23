@@ -386,6 +386,11 @@ h2 {
 .footer {
   background: $color-light;
 
+  p {
+    text-align: center;
+    margin-top: 10px;
+  }
+
   &__social-media {
     padding: 48px 0;
 
