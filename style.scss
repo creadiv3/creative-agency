@@ -11,6 +11,12 @@ $font-text: "Inconsolata", sans-serif;
 
 $transition: all 1s;
 
+@mixin hover-light {
+  &:hover {
+    color: $color-light;
+  }
+}
+
 /* GLOBAL */
 
 *,
@@ -31,6 +37,11 @@ body {
 
 section {
   padding: 96px 0;
+}
+
+h2 {
+  font-size: 48px;
+  margin: 0 0 72px 0;
 }
 
 .container {
@@ -155,5 +166,71 @@ section {
     &:hover {
       color: $color-one;
     }
+  }
+}
+
+/* SERVICES */
+
+.services {
+  &__number {
+    position: absolute;
+    top: -30px;
+    left: -10px;
+    font-size: 144px;
+    line-height: 1;
+    z-index: -1;
+    font-family: $font-header;
+    color: rgba(52, 218, 179, 0.274);
+  }
+
+  &__row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  &__title {
+    font-size: 24px;
+    margin: 0 0 12px 0;
+  }
+
+  &__txt {
+    max-width: 80%;
+    margin-bottom: 30px;
+  }
+
+  &__btn {
+    margin-top: auto;
+  }
+
+  .box {
+    flex: 1;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .btn-two {
+    border-color: $color-two;
+    color: $color-two;
+    background-image: linear-gradient(90deg, $color-two 50%, transparent 50%);
+
+    @include hover-light();
+  }
+
+  .btn-three {
+    border-color: $color-three;
+    color: $color-three;
+    background-image: linear-gradient(90deg, $color-three 50%, transparent 50%);
+
+    @include hover-light();
+  }
+
+  .btn-four {
+    border-color: $color-one;
+    color: $color-one;
+    background-image: linear-gradient(90deg, $color-one 50%, transparent 50%);
+
+    @include hover-light();
   }
 }
