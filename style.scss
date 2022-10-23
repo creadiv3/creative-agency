@@ -380,3 +380,40 @@ h2 {
     }
   }
 }
+
+/* FOOTER */
+
+.footer {
+  background: $color-light;
+
+  &__social-media {
+    padding: 48px 0;
+
+    ul {
+      display: flex;
+      justify-content: center;
+      list-style-type: none;
+      column-gap: 20px;
+      li {
+        font-size: 0;
+        a {
+          text-decoration: none;
+          i {
+            color: $color-light;
+            background-color: $color-three;
+            font-size: 30px;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            line-height: 60px;
+            text-align: center;
+            transition: $transition;
+            &:hover {
+              transform: scale(1.1);
+            }
+          }
+        }
+      }
+    }
+  }
+}
