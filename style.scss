@@ -9,6 +9,8 @@ $color-dark: #2c2c54;
 $font-header: "Signika", sans-serif;
 $font-text: "Inconsolata", sans-serif;
 
+$transition: all 1s;
+
 /* GLOBAL */
 
 *,
@@ -27,14 +29,36 @@ body {
   color: $color-dark;
 }
 
+section {
+  padding: 96px 0;
+}
+
 .container {
   max-width: 1140px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
-section {
-  padding: 96px 0;
+.btn {
+  display: inline-block;
+  min-width: 160px;
+  margin: 24px auto 24px 0;
+  padding: 16px;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border-width: 2px;
+  border-style: solid;
+  background-position: 100% 0;
+  background-size: 300%;
+  transition: $transition;
+
+  &:hover {
+    background-position: 0 100%;
+    color: $color-light;
+  }
 }
 
 /* NAVIGATION */
@@ -90,6 +114,46 @@ section {
           }
         }
       }
+    }
+  }
+}
+
+/* SPLASH */
+
+.splash {
+  display: flex;
+  background-color: $color-one;
+  color: $color-light;
+  min-height: 500px;
+
+  &__inner {
+    margin: auto;
+    max-width: 70%;
+  }
+
+  &__title {
+    font-size: 72px;
+    word-spacing: -24px;
+    line-height: 1.2;
+
+    &--signika {
+      font-family: $font-header;
+    }
+  }
+
+  &__subtitle {
+    margin: 24px 0;
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  &__btn-one {
+    border-color: $color-light;
+    color: $color-light;
+    background-image: linear-gradient(90deg, $color-light 50%, transparent 50%);
+
+    &:hover {
+      color: $color-one;
     }
   }
 }
