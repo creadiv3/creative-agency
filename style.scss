@@ -422,3 +422,12 @@ h2 {
     }
   }
 }
+
+/* FOOTER */
+
+@media (max-width: 767px) {
+  .services__row,
+  .work__row {
+    flex-direction: column;
+  }
+}
